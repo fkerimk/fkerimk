@@ -1,9 +1,3 @@
-<style>
-  img {
-    style="filter: invert(1);"
-  }
-</style>
-
 <!-- Coding from home gif -->
 <div align="center"> 
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
@@ -31,18 +25,23 @@
 </div>
 
 <!-- Hi there -->
-<h1 align="center">👋 Hi there ^-^ 👋</h1>
+<h1 align="center">Hi there ^-^ 👋</h1>
 
 <!-- About me -->
-<h3 align="left">👩‍💻 About Me</h3>
+I've been involved in game development with Unity and C# since I was 9 years old. (I'm 18 now 🤓)
 
-<p align="left">I'm Furkan Kerim Karademir from Eskişehir, Turkey<br>
+I've been professionally working as a mobile game developer for about 2 years. (Yet I'm still more experienced in desktop games 😁)
+
+<b>I can make any type of game for any platform.</b></br> Small-scale projects are always more suitable for me, but I can take part in projects of any scale.
+
+If there is anything you can consider for me, please let me know ^^ 🌹</br>
+Seriously though, you won't regret it if you try me! 🗿
   
-- 🔭 I’m currently working with [Fubu Games](https://www.linkedin.com/company/fubu-games/mycompany/). ^-^
-
-- 📫 You can reach me at [fkerimk26@gmail.com](mailto:fkerimk26@gmail.com). ^-^ <p/>
+<!-- - 🔭 I’m currently working with [Fubu Games](https://www.linkedin.com/company/fubu-games/mycompany/). ^-^ -->
 
 - 🎮 Check out my [portfolio](https://fkerimk.github.io/)! ^-^
+
+- 📫 You can reach me at [fkerimk26@gmail.com](mailto:fkerimk26@gmail.com). ^-^ <p/>
 
 <!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0b88ade43c7a9b80fe7d80897db12d1738672566/github-contribution-grid-snake.svg" alt="Snake animation"/>
