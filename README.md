@@ -41,12 +41,12 @@ Seriously though, you won't regret it if you try me! 🗿
 
 - 🎮 Check out my [portfolio](https://fkerimk.github.io/)! ^-^
 
-- 📫 You can reach me at [fkerimk26@gmail.com](mailto:fkerimk26@gmail.com). ^-^ <p/>
+- 📫 You can reach me at [fkerimk26@gmail.com](mailto:fkerimk26@gmail.com). ^-^ </p>
 
 <!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0b88ade43c7a9b80fe7d80897db12d1738672566/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-<!-- Streak stats -->
+<!-- Streak stats 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fkerimk&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="220" alt="streak graph"/>
-</div>
+   <img src="https://streak-stats.demolab.com?user=fkerimk&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="220" alt="streak graph"/>
+</div>-->
