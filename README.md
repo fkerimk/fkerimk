@@ -1,47 +1,34 @@
-<!-- Coding from home gif -->
-<div align="center"> 
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
-</div>
+<div align="center"><img height="150" align="left" src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/pic5.gif?raw=true">
+  <sup><sub>
+
+    ░█░█░▀█▀░░░▀█▀░█░█░█▀▀░█▀▄░█▀▀░░░▄▀▄░▄▀▄░░░▀█▀░▀░█▄█░░░█▀▀░█░█░█▀▄░█░█░█▀█░█▀█░░░▀░▀▀█░▀
+    ░█▀█░░█░░░░░█░░█▀█░█▀▀░█▀▄░█▀▀░░░░░░░░░░░░░░█░░░░█░█░░░█▀▀░█░█░█▀▄░█▀▄░█▀█░█░█░░░░░░▀▄░░
+    ░▀░▀░▀▀▀░░░░▀░░▀░▀░▀▀▀░▀░▀░▀▀▀░░░░░░░░░░░░░▀▀▀░░░▀░▀░░░▀░░░▀▀▀░▀░▀░▀░▀░▀░▀░▀░▀░░░░░▀▀░░░
+  </sub></sup>
+  <img alt="Unity Logo" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/d_UnityLogo.png?raw=true" height="32"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="VS Logo" src="https://raw.githubusercontent.com/github/explore/86c1bd6b4584404882313005cbd1c213cacb16d8/topics/visual-studio/visual-studio.png" height="32"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="C# Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="C4D Logo" src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="32"/>
+  <h1>With over 9 years of experience, I am a highly committed Unity Developer 😇</h1>
+  
+</img></div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo" style="filter: invert(1);" /> 
+  <a target="_blank" href="https://fkerimk.github.io/"><img alt="GitHub Page" align="left" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/fkerimk/"><img alt="LinkedIn" align="left" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
+  <a target="_blank" href="mailto:fkerimk26@gmail.com"><img alt="GMail" align="left" src="https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail"/></a>
+  <a target="_blank" href="https://www.upwork.com/workwith/furkankerimk2"><img alt="Upwork" align="left" src="https://img.shields.io/badge/Upwork-000?style=for-the-badge&logo=upwork"/></a>
+  <a target="_blank" href="https://www.instagram.com/fkerimk/"><img alt="Instagram" align="left" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
 </div>
-
 </br>
-
-<!-- Links -->
-<div align="center">
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/fkerimk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
-</a>
-  
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/fkerimk/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  </a>
-</div>
-
-<!-- Hi there -->
-<h1 align="center">Hi there ^-^ 👋</h1>
-
-<!-- About me -->
-I've been involved in game development with Unity and C# since I was 9 years old. (I'm 18 now 🤓)
-
-I've been professionally working as a mobile game developer for about 2 years. (Yet I'm still more experienced in desktop games 😁)
-
-<b>I can make any type of game for any platform.</b></br> Small-scale projects are always more suitable for me, but I can take part in projects of any scale.
-
-If there is anything you can consider for me, please let me know ^^ 🌹</br>
-Seriously though, you won't regret it if you try me! 🗿
-  
-<!-- - 🔭 I’m currently working with [Fubu Games](https://www.linkedin.com/company/fubu-games/mycompany/). ^-^ -->
-
-- 🎮 Check out my [portfolio](https://fkerimk.github.io/)! ^-^
-
-- 📫 You can reach me at [fkerimk26@gmail.com](mailto:fkerimk26@gmail.com). ^-^ </p>
+<h2>🔭 Currently seeking employment. Contact information listed above. 😇</h2>
+I have been developing games using Unity and C# for 9 years, with over 2 years of professional experience.</br></br>
+I am capable of developing games for both PC and mobile platforms, with expertise in small-scale projects but with the ability to participate in any project.</br></br>
+If there are any open positions available, please inform me. 🌹</br></br>
+Seriously though, you won't regret giving me a try! 🗿</br>
 
 <!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0b88ade43c7a9b80fe7d80897db12d1738672566/github-contribution-grid-snake.svg" alt="Snake animation"/>
