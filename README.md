@@ -12,7 +12,7 @@
   <img alt="C# Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="C4D Logo" src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="32"/>
-  <h1>With over 9 years of experience, I am a highly committed Unity Developer 😇</h1>
+  <h1>With over 9 years of experience, I am a highly committed Unity Developer</h1>
   
 </img></div>
 
