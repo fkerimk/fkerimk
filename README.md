@@ -12,7 +12,7 @@
   <img alt="C# Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="C4D Logo" src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="32"/>
-  <h1>With over 9 years of experience, I am a highly committed Unity Developer</h1>
+  <h1>I'm a highly committed Unity Developer with 9+ years of experience</h1>
   
 </img></div>
 
@@ -24,12 +24,10 @@
   <a target="_blank" href="https://www.instagram.com/fkerimk/"><img alt="Instagram" align="left" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
 </div>
 </br>
-<h2>🔭 Currently seeking employment. Contact information listed above. 😇</h2>
-I have been developing games using Unity and C# for 9 years, with over 2 years of professional experience.</br></br>
-I am capable of developing games for both PC and mobile platforms, with expertise in small-scale projects but with the ability to participate in any project.</br></br>
-If there are any open positions available, please inform me. 🌹</br></br>
-Seriously though, you won't regret giving me a try! 🗿</br>
-
+<h2>Contact information listed above. 😇</h2>
+I have been developing games using Unity and C# for 9+ years with 2+ years of professional experience.</br></br>
+I'm capable of developing games for both PC and mobile platforms with expertise in small-scale and mid-scale projects but with the ability to participate in any-scale project.</br></br>
+If there is anything we can talk about, please let me know. 🌹</br></br>
 <!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0b88ade43c7a9b80fe7d80897db12d1738672566/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
