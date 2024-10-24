@@ -12,22 +12,20 @@
   <img alt="C# Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="C4D Logo" src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="32"/>
-  <h1>I'm a highly committed Unity Developer with 9+ years of experience</h1>
+  <h2>I've been developing games for 10 years with over 3 years of professional experience using Unity and C#.</h2>
   
 </img></div>
 
 <div align="center">
-  <a target="_blank" href="https://fkerimk.github.io/"><img alt="GitHub Page" align="left" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
-  <a target="_blank" href="https://www.linkedin.com/in/fkerimk/"><img alt="LinkedIn" align="left" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
-  <a target="_blank" href="mailto:fkerimk26@gmail.com"><img alt="GMail" align="left" src="https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail"/></a>
-  <a target="_blank" href="https://www.upwork.com/workwith/furkankerimk2"><img alt="Upwork" align="left" src="https://img.shields.io/badge/Upwork-000?style=for-the-badge&logo=upwork"/></a>
-  <a target="_blank" href="https://www.instagram.com/fkerimk/"><img alt="Instagram" align="left" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
+  <a target="_blank" href="https://fkerimk.github.io/"><img alt="GitHub Page" align="left" src="https://img.shields.io/badge/GitHub Page (Porfolio)-000?style=for-the-badge&logo=github"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/fkerimk/"><img alt="LinkedIn" align="left" src="https://img.shields.io/badge/LinkedIn Profile-000?style=for-the-badge&logo=linkedin"/></a>
+  <a target="_blank" href="mailto:fkerimk26@gmail.com"><img alt="GMail" align="left" src="https://img.shields.io/badge/GMail-000?style=for-the-badge&logo=gmail"/></a>
+  <a target="_blank" href="https://www.upwork.com/workwith/furkankerimk2"><img alt="Upwork" align="left" src="https://img.shields.io/badge/Upwork Profile-000?style=for-the-badge&logo=upwork"/></a>
+  <a target="_blank" href="https://www.instagram.com/fkerimk/"><img alt="Instagram" align="left" src="https://img.shields.io/badge/Instagram Profile (to chat)-000?style=for-the-badge&logo=instagram"/></a>
 </div>
 </br>
 <h2>Contact information listed above. 😇</h2>
-I have been developing games using Unity and C# for 9+ years with 2+ years of professional experience.</br></br>
-I'm capable of developing games for both PC and mobile platforms with expertise in small-scale and mid-scale projects but with the ability to participate in any-scale project.</br></br>
-If there is anything we can talk about, please let me know. 🌹</br></br>
+Thank you so much in advance for any connections, advice or opportunities you can offer! 😇 🌹</br></br>
 <!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0b88ade43c7a9b80fe7d80897db12d1738672566/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
