@@ -17,11 +17,11 @@
 </img></div>
 
 <div align="center">
-  <a target="_blank" href="https://fkerimk.github.io/"><img alt="GitHub Page" align="left" src="https://img.shields.io/badge/GitHub Page (Porfolio)-000?style=for-the-badge&logo=github"/></a>
-  <a target="_blank" href="https://www.linkedin.com/in/fkerimk/"><img alt="LinkedIn" align="left" src="https://img.shields.io/badge/LinkedIn Profile-000?style=for-the-badge&logo=linkedin"/></a>
-  <a target="_blank" href="mailto:fkerimk26@gmail.com"><img alt="GMail" align="left" src="https://img.shields.io/badge/GMail-000?style=for-the-badge&logo=gmail"/></a>
-  <a target="_blank" href="https://www.upwork.com/freelancers/furkankerimk2"><img alt="Upwork" align="left" src="https://img.shields.io/badge/Upwork-000?style=for-the-badge&logo=upwork"/></a>
-  <a target="_blank" href="https://www.instagram.com/fkerimk/"><img alt="Instagram" align="left" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
+  <a target="_blank" href="https://fkerimk.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/fkerimk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
+  <a target="_blank" href="mailto:fkerimk26@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/GMail-000?style=for-the-badge&logo=gmail"/></a>
+  <a target="_blank" href="https://www.upwork.com/freelancers/furkankerimk2"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-000?style=for-the-badge&logo=upwork"/></a>
+  <a target="_blank" href="https://www.instagram.com/fkerimk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
 </div>
 </br>
 <h2>Contact information listed above. 😇</h2>
