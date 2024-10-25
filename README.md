@@ -13,9 +13,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="C4D Logo" src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" height="32"/>
   <h2>I've been developing games for 10 years with over 3 years of professional experience using Unity and C#.</h2>
-  
 </img></div>
-
 <div align="center">
   <a target="_blank" href="https://fkerimk.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github"/></a>
   <a target="_blank" href="https://www.linkedin.com/in/fkerimk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
@@ -23,7 +21,6 @@
   <a target="_blank" href="https://www.upwork.com/freelancers/furkankerimk2"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-000?style=for-the-badge&logo=upwork"/></a>
   <a target="_blank" href="https://www.instagram.com/fkerimk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"/></a>
 </div>
-</br>
 <h2>Contact information listed above. 😇</h2>
 Thank you so much in advance for any connections, advice or opportunities you can offer! 😇 🌹
 <!-- Contribution Snake -->
