@@ -1,4 +1,4 @@
-<img height="150" align="left" src="https://github.com/fkerimk/fkerimk/blob/main/2b.gif?raw=true">
+<img height="150" align="left" src="https://github.com/fkerimk/fkerimk/blob/main/.github/assets/2b.gif?raw=true">
 
 <div align="center">
     <img alt="Unity Logo" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg" height="32"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,4 +12,4 @@
   <a target="_blank" href="https://www.instagram.com/fkerimk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-223?style=for-the-badge&logo=instagram"/></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/0b88ade43c7a9b80fe7d80897db12d1738672566/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/fkerimk/fkerimk/refs/heads/main/.github/assets/contribution-grid-snake-dark.svg" alt="contribution-grid-snake"/>
