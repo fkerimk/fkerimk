@@ -2,11 +2,11 @@ name: contribution grid snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -22,14 +22,14 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Commit and push generated files
+            .github/workflows/contribution-grid-snake.svg
+            .github/workflows/contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Commit and push generated SVGs to master
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add output/
-          git commit -m "chore: update contribution grid snake [auto]" || echo "No changes to commit"
+          git add .github/workflows/*.svg
+          git commit -m "chore: update contribution grid snake SVGs [auto]" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
