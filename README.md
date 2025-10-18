@@ -1,15 +1,8 @@
-<img height="150" align="left" src="https://github.com/fkerimk/fkerimk/blob/main/.github/assets/2b.gif?raw=true">
-
 <div align="center">
-    <img alt="Unity Logo" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg" height="32"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Rider Logo" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rider/rider-original.svg" height="32"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="C# Logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <h2>11 years breathing Unity and C#.</h2>
+	<img width="150" height="150" src="https://fkerimk.com/assets/pepe_bar.gif"/><br/><br/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unity/unity-original.svg" width="64" height="32"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rider/rider-original.svg" width="64" height="32"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="64"  height="32"/>
+	<h3>11 years breathing Unity and C#.</h2>
+	<img src="https://raw.githubusercontent.com/fkerimk/fkerimk/refs/heads/main/.github/assets/contribution-grid-snake-dark.svg"/>
 </div>
-
-<div align="center">
-  <a target="_blank" href="mailto:fkerimk26@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Mail%20Me-223?style=for-the-badge&logo=gmail"/></a>
-  <a target="_blank" href="https://www.instagram.com/fkerimk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-223?style=for-the-badge&logo=instagram"/></a>
-</div>
-
-<img src="https://raw.githubusercontent.com/fkerimk/fkerimk/refs/heads/main/.github/assets/contribution-grid-snake-dark.svg" alt="contribution-grid-snake"/>
