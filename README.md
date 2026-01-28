@@ -44,7 +44,7 @@
 	<br/>
 	<h4>Thank you for visiting my profile.<br/>Please feel free to contact me about anything.<br/>I am always open to any questions and any opportunities.</h4>
 	<br/>
-	<img src="https://count.getloli.com/@fkerimk?name=fkerimk&theme=booru-lewd&padding=0&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width="256" height="256"/>
+	<img src="https://count.getloli.com/@fkerimk?name=fkerimk&theme=ai-1&padding=0&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width="256" height="256"/>
 	<br/><br/>
 	<img src="https://raw.githubusercontent.com/fkerimk/fkerimk/refs/heads/main/.github/assets/contribution-grid-snake-dark.svg"/>
 	<br/><br/>
