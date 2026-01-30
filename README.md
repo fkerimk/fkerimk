@@ -46,6 +46,9 @@
 	<br/>
 	<img src="https://count.getloli.com/@fkerimk?name=fkerimk&theme=ai-1&padding=0&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width="256" height="256"/>
 	<br/><br/>
+	If you look at my contributions before 2026, you’ll see quite a bit of silence.
+	><br/>
+	I removed my old private repositories and I’m making a fresh, well-populated start.
 	<img src="https://raw.githubusercontent.com/fkerimk/fkerimk/refs/heads/main/.github/assets/contribution-grid-snake-dark.svg"/>
 	<br/><br/>
 	<img height="150" src="https://i.hizliresim.com/71i4maj.gif"/>
