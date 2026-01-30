@@ -52,6 +52,6 @@
 	<img src="https://raw.githubusercontent.com/fkerimk/fkerimk/refs/heads/main/.github/assets/contribution-grid-snake-dark.svg"/>
 	<br/><br/>
 	<img height="150" src="https://i.hizliresim.com/71i4maj.gif"/>
-	<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=fkerimk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"/>
+	<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=fkerimk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false"/>
 	<img height="150" src="https://i.hizliresim.com/71i4maj.gif"/>
 </div>
